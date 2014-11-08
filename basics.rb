@@ -3,6 +3,7 @@
 
 
 require 'sinatra'
+require 'datamapper'
 
 
 # Root page
