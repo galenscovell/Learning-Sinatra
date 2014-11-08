@@ -1,4 +1,3 @@
-Learning-Sinatra
-================
+# Learning-Sinatra
 
-Singing with Sinatra
+Studying the minimalist Ruby web framework via the Tutsplus 'Singing with Sinatra' tutorials.
